@@ -1,5 +1,3 @@
-#Alex_Colegrove CS1111, Fall 2016
-
 __author__ = 'Caleb'
 import urllib3
 import datetime
